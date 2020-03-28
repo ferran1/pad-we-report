@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">We Report</string>
+    <string name="Username">Kenteken</string>
+    <string name="Userpass">Wachtwoord</string>
+    <string name="Logintext">Login</string>
+    <string name="Text1">De locatie wordt automatisch meeverstuurd.</string>
+    <string name="Text2">Aantal zakken</string>
+    <string name="Text3">Aantal kliko/s</string>
+    <string name="Text4">Aantal containers</string>
+    <string name="gebruikerTekst">Licenseplate: %1$s is ingelogd.</string>
+    <string name="photo1">Logo We Report</string>
+    <string name="error_login">Accountgegevens kloppen niet. Probeer het opnieuw.</string>
+</resources>
